@@ -1,0 +1,4 @@
+BK001,Timun Jelita,Raditya Dika,Novel
+BK002,Bicara Itu Ada Seninyaa,Oh Su Hyang,Self-Improvement
+BK003,Atomic Habits,James Clear Rusmana,Self-Improvement
+BK900,Kamus Bahasa Inggrs,Albert Einsten,Kamus
